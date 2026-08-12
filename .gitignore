@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+scripts/recent_posts.json
+scripts/idea_context.json
+.agent_context/
+.multica/
