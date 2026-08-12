@@ -1,4 +1,8 @@
-# Glimp Instagram Idea Generator
+# socialmediaideator
+
+Glimp social media scraper and ideator.
+
+## Glimp Instagram Idea Generator
 
 This project prepares grounded, non-repetitive Instagram post ideas for Glimp.
 
