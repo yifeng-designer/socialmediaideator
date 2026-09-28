@@ -1,16 +1,236 @@
 {
   "version": 2,
-  "updated_at": "2026-08-12T00:00:00+02:00",
+  "updated_at": "2026-09-28T10:15:00+02:00",
   "ideas": [
-    {"title": "回家前先把自己接回来", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "开会前先拉长呼气，不是先硬撑专注", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "老师也需要属于自己的下课铃", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "通勤不是废时间，它可以是你的降噪时间", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "你不是懒，你只是一直没有真正松下来", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "不是睡不着，是白天还没真的结束", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "厨房里的两分钟，比你想的更能救回来", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "热天让人烦，不一定是你脾气变差了", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "社交结束后，你不需要立刻恢复热情", "date": "2026-08-05", "status": "recovered-title-only"},
-    {"title": "早上第一口气，不该直接交给手机", "date": "2026-08-05", "status": "recovered-title-only"}
+    {
+      "title": "回家前先把自己接回来",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "开会前先拉长呼气，不是先硬撑专注",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "老师也需要属于自己的下课铃",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "通勤不是废时间，它可以是你的降噪时间",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "你不是懒，你只是一直没有真正松下来",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "不是睡不着，是白天还没真的结束",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "厨房里的两分钟，比你想的更能救回来",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "热天让人烦，不一定是你脾气变差了",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "社交结束后，你不需要立刻恢复热情",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "早上第一口气，不该直接交给手机",
+      "date": "2026-08-05",
+      "status": "recovered-title-only"
+    },
+    {
+      "title": "把购物袋放下之后，先别急着继续",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "洗衣机响了，你不必立刻接着忙",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "三个标签页都开着，身体只有一个",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "吸气和呼气之间，心跳本来就不是匀速的",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "不用数拍的 60 秒呼吸练习",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "摘下耳机后的十秒",
+      "date": "2026-08-17",
+      "status": "archived"
+    },
+    {
+      "title": "倒水时的三十秒，水壶还在响",
+      "date": "2026-08-24",
+      "status": "archived"
+    },
+    {
+      "title": "为什么呼气比吸气更容易让人放松？",
+      "date": "2026-08-24",
+      "status": "archived-science"
+    },
+    {
+      "title": "坐进车里、发动之前的那两分钟",
+      "date": "2026-08-24",
+      "status": "archived"
+    },
+    {
+      "title": "触觉引导的「生理叹气」微练习",
+      "date": "2026-08-24",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "当你把手机扣在桌上的那一瞬间",
+      "date": "2026-08-24",
+      "status": "archived"
+    },
+    {
+      "title": "假期结束了，身体的节奏不用一天追齐",
+      "date": "2026-08-31",
+      "status": "archived"
+    },
+    {
+      "title": "为什么大脑转不动时，深呼吸真的能换来清醒？",
+      "date": "2026-08-31",
+      "status": "archived-science"
+    },
+    {
+      "title": "连轴开会之间的 90 秒关门微重置",
+      "date": "2026-08-31",
+      "status": "archived"
+    },
+    {
+      "title": "不用死记拍数的「4-7-8」温和入睡指引",
+      "date": "2026-08-31",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "从嘈杂地铁走出来，站在路口吹风的那一刻",
+      "date": "2026-08-31",
+      "status": "archived"
+    },
+    {
+      "title": "休息不是一项奖赏，你不需要先证明自己够累",
+      "date": "2026-09-07",
+      "status": "archived"
+    },
+    {
+      "title": "为什么呼吸慢下来时，心跳会变成像海浪一样的平滑曲线？",
+      "date": "2026-09-07",
+      "status": "archived-science"
+    },
+    {
+      "title": "在拥挤超市排队与通勤车厢里，把手插进口袋的三十秒",
+      "date": "2026-09-07",
+      "status": "archived"
+    },
+    {
+      "title": "抛开秒表的「5:5 共振呼吸」：像荡秋千一样自然的身体节律",
+      "date": "2026-09-07",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "吃完晚饭后，别急着把盘子端进水槽",
+      "date": "2026-09-07",
+      "status": "archived"
+    },
+    {
+      "title": "关上笔记本电脑后，给眼睛和大脑留出 90 秒的「屏幕余辉」间隙",
+      "date": "2026-09-14",
+      "status": "archived"
+    },
+    {
+      "title": "为什么「多吸气」反而可能缺氧？揭秘二氧化碳与玻尔效应（Bohr Effect）",
+      "date": "2026-09-14",
+      "status": "archived-science"
+    },
+    {
+      "title": "专属于感官过载的「轻柔蜂鸣呼气法」：用内在声波给神经系统做一次低频震动抚平",
+      "date": "2026-09-14",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "从外面的喧嚣走进家门：玄关处的「脱鞋三秒钟」沉降仪式",
+      "date": "2026-09-14",
+      "status": "archived"
+    },
+    {
+      "title": "把“我很忙”当作默认状态太久了，我们忘记了「平淡无事」本来就是一种能力",
+      "date": "2026-09-14",
+      "status": "archived"
+    },
+    {
+      "title": "为什么我们总把「无所事事」当成一种负罪感？给大脑留白不是偷懒，而是神经默认模式网络（DMN）的自我整理",
+      "date": "2026-09-21",
+      "status": "archived"
+    },
+    {
+      "title": "为什么深长呼气时，下颌与肩膀会同时松下来？揭秘三叉神经-迷走神经协同反射（Trigemino-Vagal Reflex）",
+      "date": "2026-09-21",
+      "status": "archived-science"
+    },
+    {
+      "title": "不必强迫屏息的「阶梯式微减速呼气法」：给过载大脑的 60 秒温和靠岸练习",
+      "date": "2026-09-21",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "结束一整天的社交与对话：玄关处脱下外套、静立三秒的「感官卸载」仪式",
+      "date": "2026-09-21",
+      "status": "archived"
+    },
+    {
+      "title": "为什么我们总是越到睡前越精神？警惕电子光线对褪黑素与体温节律的「夜间劫持」",
+      "date": "2026-09-21",
+      "status": "archived-science"
+    },
+    {
+      "title": "为什么我们总是越累越想做“低效的事”？揭秘压力下的认知超载与心智自卫机制",
+      "date": "2026-09-28",
+      "status": "current"
+    },
+    {
+      "title": "为什么呼吸慢下来时，大脑的“声音”也会变小？揭秘呼吸与蓝斑核（Locus Coeruleus）神经耦合",
+      "date": "2026-09-28",
+      "status": "current-science"
+    },
+    {
+      "title": "当你感到胸闷与心烦时：试一试温和的「波浪式延长呼气法」（Waveform Exhale Practice）",
+      "date": "2026-09-28",
+      "status": "current-breathing-technique"
+    },
+    {
+      "title": "关掉所有的未读红点后：在手机主屏幕停留三秒的「数字停泊」仪式",
+      "date": "2026-09-28",
+      "status": "current"
+    },
+    {
+      "title": "冲泡一杯咖啡/热茶的热水流淌声：属于秋日清晨的「听觉减噪」一分钟",
+      "date": "2026-09-28",
+      "status": "current"
+    }
   ]
 }
