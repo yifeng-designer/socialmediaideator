@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T10:15:00+02:00",
+  "updated_at": "2026-10-26T08:30:55.639047+00:00",
   "ideas": [
     {
       "title": "回家前先把自己接回来",
@@ -85,7 +85,10 @@
     {
       "title": "倒水时的三十秒，水壶还在响",
       "date": "2026-08-24",
-      "status": "archived"
+      "status": "archived-user-rejected",
+      "archive_reason": "用户否决：moment 太小、生活碎片感过强；不再制作。",
+      "review_date": "2026-10-15",
+      "review_issue": "GLI-130"
     },
     {
       "title": "为什么呼气比吸气更容易让人放松？",
@@ -145,12 +148,18 @@
     {
       "title": "在拥挤超市排队与通勤车厢里，把手插进口袋的三十秒",
       "date": "2026-09-07",
-      "status": "archived"
+      "status": "archived-user-rejected",
+      "archive_reason": "用户否决：moment 太小、生活碎片感过强；不再制作。",
+      "review_date": "2026-10-15",
+      "review_issue": "GLI-130"
     },
     {
       "title": "抛开秒表的「5:5 共振呼吸」：像荡秋千一样自然的身体节律",
       "date": "2026-09-07",
-      "status": "archived-breathing-technique"
+      "status": "selected-awaiting-production",
+      "selection_title": "Pebbles-tip: wat als je de draad kwijtraakt?",
+      "review_date": "2026-10-15",
+      "review_issue": "GLI-130"
     },
     {
       "title": "吃完晚饭后，别急着把盘子端进水槽",
@@ -205,32 +214,125 @@
     {
       "title": "为什么我们总是越到睡前越精神？警惕电子光线对褪黑素与体温节律的「夜间劫持」",
       "date": "2026-09-21",
-      "status": "archived-science"
+      "status": "selected-awaiting-production",
+      "selection_title": "Wist je dat schermlicht je biologische klok kan verschuiven?",
+      "review_date": "2026-10-15",
+      "review_issue": "GLI-130"
     },
     {
       "title": "为什么我们总是越累越想做“低效的事”？揭秘压力下的认知超载与心智自卫机制",
       "date": "2026-09-28",
-      "status": "current"
+      "status": "archived"
     },
     {
       "title": "为什么呼吸慢下来时，大脑的“声音”也会变小？揭秘呼吸与蓝斑核（Locus Coeruleus）神经耦合",
       "date": "2026-09-28",
-      "status": "current-science"
+      "status": "archived-science"
     },
     {
       "title": "当你感到胸闷与心烦时：试一试温和的「波浪式延长呼气法」（Waveform Exhale Practice）",
       "date": "2026-09-28",
-      "status": "current-breathing-technique"
+      "status": "archived-breathing-technique"
     },
     {
       "title": "关掉所有的未读红点后：在手机主屏幕停留三秒的「数字停泊」仪式",
       "date": "2026-09-28",
-      "status": "current"
+      "status": "selected-awaiting-production",
+      "selection_title": "Niet elke melding vraagt om jouw aandacht.",
+      "review_date": "2026-10-15",
+      "review_issue": "GLI-130"
     },
     {
       "title": "冲泡一杯咖啡/热茶的热水流淌声：属于秋日清晨的「听觉减噪」一分钟",
       "date": "2026-09-28",
-      "status": "current"
+      "status": "archived"
+    },
+    {
+      "title": "为什么我们会忍不住“叹一口气”？揭秘生理性叹气的肺泡重置与表面活性物质机制",
+      "date": "2026-10-05",
+      "status": "selected-awaiting-production"
+    },
+    {
+      "title": "适合紧绷时刻的「四叶草微触感呼吸法」：抛开数字与秒表，把节奏交给手心的温润起伏",
+      "date": "2026-10-05",
+      "status": "archived-breathing-technique"
+    },
+    {
+      "title": "收到突发长消息的那一秒：把双手移开键盘的「两分钟缓释间隙」",
+      "date": "2026-10-05",
+      "status": "archived-duplicate"
+    },
+    {
+      "title": "换季降温时分：从秋风里走进家门，脱下围巾前留出 60 秒的「体温重对齐」",
+      "date": "2026-10-05",
+      "status": "selected-awaiting-production"
+    },
+    {
+      "title": "划掉清单上的繁杂事项之后：给大脑留出 10 秒的「完成闭环」",
+      "date": "2026-10-05",
+      "status": "selected-awaiting-production"
+    },
+    {
+      "title": "为什么用鼻子呼吸比嘴巴更能让人镇静？揭秘鼻旁窦一氧化氮（Nitric Oxide）与天然血管舒张机制",
+      "date": "2026-10-19",
+      "status": "selected-awaiting-production",
+      "review_date": "2026-10-21",
+      "review_issue": "GLI-134",
+      "selection_title": "Je neus doet meer dan lucht doorlaten."
+    },
+    {
+      "title": "抛开用力深呼吸的误区：适合紧绷脑力的「微羽柔息法」（Soft Feather Breathing）",
+      "date": "2026-10-19",
+      "status": "selected-awaiting-production",
+      "review_date": "2026-10-21",
+      "review_issue": "GLI-134",
+      "selection_title": "Rustig ademen hoeft geen grote teug te zijn."
+    },
+    {
+      "title": "脑子还在高速运转，双手先在鹅卵石上靠岸：工位午后的 60 秒「触觉回舱」",
+      "date": "2026-10-19",
+      "status": "proposed"
+    },
+    {
+      "title": "收到消息提示的那一秒：你不必像接警一样立刻回复",
+      "date": "2026-10-19",
+      "status": "archived-duplicate",
+      "review_date": "2026-10-21",
+      "review_issue": "GLI-134",
+      "archive_reason": "与 Buffer 10-23 已排期双平台通知边界主题高度重复，且继续使用已被用户否决的微小生活 moment；“火警”“保护神经系统”等表达夸大，不适合本轮。"
+    },
+    {
+      "title": "为什么“努力让自己平静”反而更累？揭秘触觉节律挟带（Tactile Entrainment）为什么比心算节拍更懂你的神经系统",
+      "date": "2026-10-19",
+      "status": "archived-duplicate",
+      "review_date": "2026-10-21",
+      "review_issue": "GLI-134",
+      "archive_reason": "与 Buffer 10-21 已发布双平台 Pebbles 跟随提示高度重复；所列一般感觉／触觉文献不能证明 Pebbles 比计数更有效、前额叶零负荷或心血管节律自动同步，补证和改写成本高。"
+    },
+    {
+      "title": "为什么大口喘气反而让人头晕？揭秘波尔效应（Bohr Effect）与二氧化碳在细胞供氧中的真实角色",
+      "date": "2026-10-26",
+      "status": "proposed-science"
+    },
+    {
+      "title": "当注意力飘走或肩颈耸起时：不数秒、不憋气的「重力释放」温和呼缓练习（The Soft Gravity Exhale Practice）",
+      "date": "2026-10-26",
+      "status": "proposed-breathing-technique"
+    },
+    {
+      "title": "冬令时换算后的第一周：窗外天黑得太早，给身体留 3 分钟的「暮光过渡」",
+      "date": "2026-10-26",
+      "status": "proposed"
+    },
+    {
+      "title": "点下「离开会议」红键之后：给大脑留 90 秒「未排期空白」（The Post-Call Buffer）",
+      "date": "2026-10-26",
+      "status": "proposed"
+    },
+    {
+      "title": "睡前的「未完成卸载」：把明天留在纸页上，把身体还给枕头",
+      "date": "2026-10-26",
+      "status": "proposed"
     }
   ]
 }
