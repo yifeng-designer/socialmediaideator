@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-26T08:30:55.639047+00:00",
+  "updated_at": "2026-11-02T09:00:20.173365+00:00",
   "ideas": [
     {
       "title": "回家前先把自己接回来",
@@ -291,7 +291,10 @@
     {
       "title": "脑子还在高速运转，双手先在鹅卵石上靠岸：工位午后的 60 秒「触觉回舱」",
       "date": "2026-10-19",
-      "status": "proposed"
+      "status": "archived-duplicate",
+      "review_date": "2026-10-26",
+      "review_issue": "GLI-141",
+      "archive_reason": "与 10-21 已发布双平台 Pebbles tips 的“回到柔和振动、不追赶、不数拍”重复；60 秒即可放松、零认知负担及具体材质颜色未获本轮验证。继续使用已被用户否决的过小 moment，改写价值低。"
     },
     {
       "title": "收到消息提示的那一秒：你不必像接警一样立刻回复",
@@ -317,12 +320,18 @@
     {
       "title": "当注意力飘走或肩颈耸起时：不数秒、不憋气的「重力释放」温和呼缓练习（The Soft Gravity Exhale Practice）",
       "date": "2026-10-26",
-      "status": "proposed-breathing-technique"
+      "status": "archived-duplicate",
+      "review_date": "2026-10-26",
+      "review_issue": "GLI-141",
+      "archive_reason": "与 10-21 双平台已发布的轻柔／可退出提示及 GLI-134 已选中、拟 10-29 制作的温和呼吸练习高度重复；肩膀下沉 1 厘米、不到一分钟及神经系统收到安全信号不是本轮可证明的结果。新增独特价值不足，避免同时生产近似教程。"
     },
     {
       "title": "冬令时换算后的第一周：窗外天黑得太早，给身体留 3 分钟的「暮光过渡」",
       "date": "2026-10-26",
-      "status": "proposed"
+      "status": "selected-awaiting-production",
+      "review_date": "2026-10-26",
+      "review_issue": "GLI-141",
+      "selection_title": "Buiten al donker. Binnen nog aan het werk?"
     },
     {
       "title": "点下「离开会议」红键之后：给大脑留 90 秒「未排期空白」（The Post-Call Buffer）",
@@ -332,6 +341,34 @@
     {
       "title": "睡前的「未完成卸载」：把明天留在纸页上，把身体还给枕头",
       "date": "2026-10-26",
+      "status": "selected-awaiting-production",
+      "review_date": "2026-10-26",
+      "review_issue": "GLI-141",
+      "selection_title": "Morgen hoeft vanavond nog niet af."
+    },
+    {
+      "title": "为什么久坐伏案时，呼吸会悄悄变浅？揭秘膈肌运动、胸腹筋膜与自律神经的「姿态-呼吸耦合」",
+      "date": "2026-11-02",
+      "status": "proposed-science"
+    },
+    {
+      "title": "当思绪飘走或心跳发急时：不数秒、不憋气的「地平线温和呼缓法」（The Horizon Rhythm Practice）",
+      "date": "2026-11-02",
+      "status": "proposed-science"
+    },
+    {
+      "title": "白天没留出的空白，夜晚都会以失眠来索取：为什么我们需要日间的「微降温时刻」",
+      "date": "2026-11-02",
+      "status": "proposed"
+    },
+    {
+      "title": "打开堆满的收件箱前：双手离开键盘的 120 秒「感官缓冲」",
+      "date": "2026-11-02",
+      "status": "proposed"
+    },
+    {
+      "title": "醒来后的前三分钟：别让外部世界的声音，比你的第一口呼吸先抵达",
+      "date": "2026-11-02",
       "status": "proposed"
     }
   ]
